@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontendMentor-single-price-grid/static/css/main.68dd6151.css",
+    "main.js": "/frontendMentor-single-price-grid/static/js/main.695cd4bb.js",
+    "static/js/787.cbf7b17f.chunk.js": "/frontendMentor-single-price-grid/static/js/787.cbf7b17f.chunk.js",
+    "index.html": "/frontendMentor-single-price-grid/index.html",
+    "main.68dd6151.css.map": "/frontendMentor-single-price-grid/static/css/main.68dd6151.css.map",
+    "main.695cd4bb.js.map": "/frontendMentor-single-price-grid/static/js/main.695cd4bb.js.map",
+    "787.cbf7b17f.chunk.js.map": "/frontendMentor-single-price-grid/static/js/787.cbf7b17f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68dd6151.css",
+    "static/js/main.695cd4bb.js"
+  ]
+}
